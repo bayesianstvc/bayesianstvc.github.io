@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 220" role="img" aria-labelledby="title desc">
+  <title id="title">Local spatiotemporal coefficient map</title>
+  <desc id="desc">A faceted teal map, temporal curve and coefficient legend.</desc>
+  <defs>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.4"/></filter>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#1a766f"/><stop offset="1" stop-color="#679c92"/></linearGradient>
+  </defs>
+  <g opacity=".18" filter="url(#soft)" fill="#4b746d"><ellipse cx="58" cy="118" rx="43" ry="55"/></g>
+  <g stroke="#f8f3eb" stroke-width="1.05" stroke-linejoin="round">
+    <path fill="#c9d5cc" d="M31 42l15-9 14 9-3 17-16 7-13-9z"/><path fill="#a9c0b5" d="M47 34l17 4 9 15-9 12-10-8 3-15z"/>
+    <path fill="#7fa69a" d="M27 57l14 9-1 17-17 8-12-13 5-15z"/><path fill="#548d82" d="M41 66l16-7 13 12-2 17-15 8-13-13z"/>
+    <path fill="#b8c9c0" d="M64 65l16-6 12 13-4 16-20 0 2-17z"/><path fill="#2d776f" d="M23 91l17-8 13 13-5 17-18 6-13-13z"/>
+    <path fill="#6e9c91" d="M53 96l15-8 16 10-2 17-17 8-17-10z"/><path fill="#c8d5ce" d="M83 88l13 11-4 17-11 7 1-8 2-17z"/>
+    <path fill="#196a65" d="M30 119l18-6 13 12-2 18-17 7-14-12z"/><path fill="#47877d" d="M59 123l16-8 14 12-3 17-15 9-12-12z"/>
+    <path fill="#8eb0a5" d="M42 150l17-7 12 10-2 17-14 9-16-12z"/><path fill="#b8c9c1" d="M70 153l16-9 13 12-3 16-16 10-11-12z"/>
+    <path fill="#5d9187" d="M23 137l16 12 0 18-14 6-12-13 4-16z"/><path fill="#d4ddd7" d="M54 179l15-9 11 12-5 16-14 3-11-12z"/>
+  </g>
+  <g transform="translate(95 63)">
+    <rect width="77" height="72" rx="2" fill="#f3eee6" fill-opacity=".7" stroke="#bfb4a7" stroke-width="1"/>
+    <g stroke="#d8d0c6" stroke-width=".7"><path d="M8 18h61M8 36h61M8 54h61"/><path d="M20 8v56M39 8v56M58 8v56"/></g>
+    <path d="M7 54c9-4 10-28 18-26s11 31 20 26 11-37 19-27 5 26 9 18" fill="none" stroke="url(#line)" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="155" stroke-dashoffset="155">
+      <animate attributeName="stroke-dashoffset" from="155" to="0" dur="1.15s" begin=".45s" fill="freeze"/>
+    </path>
+  </g>
+  <g transform="translate(100 156)"><rect width="17" height="9" fill="#d2dbd4"/><rect x="17" width="17" height="9" fill="#aac1b7"/><rect x="34" width="17" height="9" fill="#69988d"/><rect x="51" width="17" height="9" fill="#1d706a"/><rect width="68" height="9" fill="none" stroke="#b9afa3" stroke-width=".7"/></g>
+</svg>

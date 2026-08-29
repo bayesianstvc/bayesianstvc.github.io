@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 220" role="img" aria-labelledby="title desc">
+  <title id="title">Global spatiotemporal coefficient importance</title>
+  <desc id="desc">Ranked multicolor contributions and posterior coefficient intervals.</desc>
+  <defs><linearGradient id="bars" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#c84e22"/><stop offset=".5" stop-color="#a32e6d"/><stop offset="1" stop-color="#4856ad"/></linearGradient></defs>
+  <g fill="url(#bars)">
+    <rect x="5" y="38" width="57" height="10" rx="5"><animate attributeName="width" from="0" to="57" dur=".55s" begin=".2s" fill="freeze"/></rect>
+    <rect x="5" y="59" width="49" height="10" rx="5"><animate attributeName="width" from="0" to="49" dur=".55s" begin=".3s" fill="freeze"/></rect>
+    <rect x="5" y="80" width="42" height="10" rx="5"><animate attributeName="width" from="0" to="42" dur=".55s" begin=".4s" fill="freeze"/></rect>
+    <rect x="5" y="101" width="35" height="10" rx="5"><animate attributeName="width" from="0" to="35" dur=".55s" begin=".5s" fill="freeze"/></rect>
+    <rect x="5" y="122" width="28" height="10" rx="5"><animate attributeName="width" from="0" to="28" dur=".55s" begin=".6s" fill="freeze"/></rect>
+    <rect x="5" y="143" width="21" height="10" rx="5"><animate attributeName="width" from="0" to="21" dur=".55s" begin=".7s" fill="freeze"/></rect>
+  </g>
+  <g stroke="#d5ccc1" stroke-width=".8"><path d="M110 24v154"/><path d="M76 43h97M76 64h97M76 85h97M76 106h97M76 127h97M76 148h97M76 169h97"/></g>
+  <g fill="#ad2e33" stroke="#ad2e33" stroke-width="1.2">
+    <g opacity="0"><path d="M126 43h30M126 38v10M156 38v10"/><circle cx="141" cy="43" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin=".55s" fill="freeze"/></g>
+    <g opacity="0"><path d="M111 64h29M111 59v10M140 59v10"/><circle cx="127" cy="64" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin=".67s" fill="freeze"/></g>
+    <g opacity="0"><path d="M133 85h31M133 80v10M164 80v10"/><circle cx="149" cy="85" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin=".79s" fill="freeze"/></g>
+    <g opacity="0"><path d="M96 106h31M96 101v10M127 101v10"/><circle cx="112" cy="106" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin=".91s" fill="freeze"/></g>
+    <g opacity="0"><path d="M116 127h31M116 122v10M147 122v10"/><circle cx="132" cy="127" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin="1.03s" fill="freeze"/></g>
+    <g opacity="0"><path d="M87 148h29M87 143v10M116 143v10"/><circle cx="102" cy="148" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin="1.15s" fill="freeze"/></g>
+    <g opacity="0"><path d="M104 169h28M104 164v10M132 164v10"/><circle cx="118" cy="169" r="3.4" stroke="#f3ece4"/><animate attributeName="opacity" from="0" to="1" dur=".2s" begin="1.27s" fill="freeze"/></g>
+  </g>
+  <path d="M75 184h99" stroke="#75695d" stroke-width="1"/><path d="M110 179v10" stroke="#75695d" stroke-width="1"/>
+</svg>
