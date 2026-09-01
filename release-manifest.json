@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:07:24.991Z",
+  "generatedAt": "2026-08-31T18:45:29.903Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -14,8 +14,8 @@
     "/docs",
     "/team"
   ],
-  "fileCount": 70,
-  "totalBytes": 46609315,
+  "fileCount": 73,
+  "totalBytes": 53698780,
   "files": [
     {
       "path": ".nojekyll",
@@ -34,28 +34,28 @@
     },
     {
       "path": "404.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "applications/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
-      "path": "assets/BSTVCSceneGLB-DKnvwsS3.js",
-      "bytes": 1037542,
-      "sha256": "ece4431845b95d036c0b9b4cb088f4f7f7f675435fa2bea186cc5bc50ef97261"
+      "path": "assets/BSTVCSceneGLB-Daaq1u39.js",
+      "bytes": 1038121,
+      "sha256": "8b4379b04748232cf903176e488f3b51291a324419f00d445bba6c3b8e3cbba3"
     },
     {
-      "path": "assets/index-ARqt8uCr.js",
-      "bytes": 252630,
-      "sha256": "cfaf74ce2343a1b33f798c3714e371a8c7cec8d3df48db0d93b85ef7985b7281"
+      "path": "assets/index-DF4ClrZ_.css",
+      "bytes": 223489,
+      "sha256": "5f036af49ddefcbdcd8c147390ed8bfe891bf76b58d14fba416a889a1ea49dd7"
     },
     {
-      "path": "assets/index-k2tAMKK8.css",
-      "bytes": 205213,
-      "sha256": "9a6aa63976244d25024c1c28425a4495119e13e8d8dd77af3db2c1b10ddaffa1"
+      "path": "assets/index-QqyjUbwj.js",
+      "bytes": 266246,
+      "sha256": "acd1a610be693c9983d7d997859b1fa7d35f6684dfff2f2ba0c39adb69646a66"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -89,13 +89,13 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "downloads/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "illustrations/dynamic-prediction-static.svg",
@@ -328,9 +328,24 @@
       "sha256": "5f7b6d40ec506f571cd8bdc585aeff4b3cef5d8c0ec680c6ad55e2e31db55444"
     },
     {
+      "path": "images/publications/bstvc-logo-motion-v26.html",
+      "bytes": 4906206,
+      "sha256": "7b44420aab4522d24410edee20fb2a2113a78f10fa4228062cdf3db25c597acc"
+    },
+    {
+      "path": "images/publications/bstvc-logo-static-v26.png",
+      "bytes": 406248,
+      "sha256": "8805fc3e8462850f16c9091484f8c2dd3258d43a17d14b2857ff3e8ec0d5c2b0"
+    },
+    {
+      "path": "images/publications/bstvc-spacetime-background-v26.png",
+      "bytes": 1743928,
+      "sha256": "0b6bd23e62823b1a7be1e5ffc9e25a4f5778bed7de6fdfae1fabd172bf4840c5"
+    },
+    {
       "path": "index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "llms.txt",
@@ -339,8 +354,8 @@
     },
     {
       "path": "methods/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "models/README.md",
@@ -349,13 +364,13 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "publications/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     },
     {
       "path": "robots.txt",
@@ -364,8 +379,8 @@
     },
     {
       "path": "team/index.html",
-      "bytes": 1665,
-      "sha256": "9371159c908d059fbe2f99aa1c6049631192b88df9383f3e4b2c033ee2130804"
+      "bytes": 1733,
+      "sha256": "cc76a58ca8f6047726e874632519b3184b9cfb5863b3fbbbe5d0ed8d38086d8d"
     }
   ]
 }
