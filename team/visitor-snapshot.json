@@ -1,0 +1,19 @@
+{
+  "site": "bstvc-r",
+  "total": 31,
+  "retrievedAt": "2026-09-03T17:26:00Z",
+  "source": "https://bstvc-visitor-api.songbi123.workers.dev/stats",
+  "status": "snapshot",
+  "note": "Real backend response captured during one V32 integration request. Local preview never writes visits. Retrieval time recorded to the minute.",
+  "points": [
+    {"lat":22.5,"lng":114,"count":5}, {"lat":34,"lng":-118,"count":5},
+    {"lat":35.5,"lng":139.5,"count":4}, {"lat":37.5,"lng":-122,"count":3},
+    {"lat":1.5,"lng":104,"count":2}, {"lat":39,"lng":-86.5,"count":2},
+    {"lat":51.5,"lng":0,"count":2}, {"lat":-32,"lng":116,"count":1},
+    {"lat":36.5,"lng":-78.5,"count":1}, {"lat":40.5,"lng":-112,"count":1},
+    {"lat":41.5,"lng":-83.5,"count":1}, {"lat":49.5,"lng":6,"count":1},
+    {"lat":50,"lng":8.5,"count":1}, {"lat":51,"lng":4.5,"count":1},
+    {"lat":56,"lng":37.5,"count":1}
+  ],
+  "privacy": "raw IP is not persisted; locations are rounded to a coarse grid"
+}

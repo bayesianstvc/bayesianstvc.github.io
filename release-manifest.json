@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:47:22.051Z",
+  "generatedAt": "2026-09-04T16:48:54.340Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -11,11 +11,10 @@
     "/products",
     "/downloads",
     "/publications",
-    "/docs",
     "/team"
   ],
-  "fileCount": 138,
-  "totalBytes": 76566123,
+  "fileCount": 152,
+  "totalBytes": 78023598,
   "files": [
     {
       "path": ".nojekyll",
@@ -35,27 +34,27 @@
     {
       "path": "404.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "applications/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
-      "path": "assets/BSTVCSceneGLB-xCAZOcJr.js",
+      "path": "assets/BSTVCSceneGLB-D6w0KfZr.js",
       "bytes": 1038183,
-      "sha256": "454ba19d891edc3857bd02b76552dfc6f70124fc40e91e4bd5c6dd2d5a672841"
+      "sha256": "8341de70764feaa8af8fba05fa29e3418d2c383e223f57672082cb1819e900bc"
     },
     {
-      "path": "assets/index-BhxXJL2F.css",
-      "bytes": 262546,
-      "sha256": "1b3fb13275f2760daf9e6b0838c8a500da3a3c660fb2a32a1983c22a7d613c3c"
+      "path": "assets/index-DKHSsTln.js",
+      "bytes": 406777,
+      "sha256": "13886206ca0283fd867197a5e0ba1b363baf82d0a545b8d6ab0478c8b22c982a"
     },
     {
-      "path": "assets/index-DPLI1W4_.js",
-      "bytes": 361317,
-      "sha256": "4d433870f7c70fd29850a326861aceed25ab39fd41f2adfb8b4019e947afb4b6"
+      "path": "assets/index-DuzvVy3c.css",
+      "bytes": 300031,
+      "sha256": "30ef73ebbd885b855a781cbf59d32b9249de78c1827e51afc3568f11ff7fe5be"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -88,14 +87,9 @@
       "sha256": "3afd64d114a27e2f6604684c30f72d6dbb6ba3e6f6b1675f15a942efc7a56410"
     },
     {
-      "path": "docs/index.html",
-      "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
-    },
-    {
       "path": "downloads/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "illustrations/dynamic-prediction-static.svg",
@@ -670,7 +664,7 @@
     {
       "path": "index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "llms.txt",
@@ -680,7 +674,7 @@
     {
       "path": "methods/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "models/README.md",
@@ -690,12 +684,12 @@
     {
       "path": "products/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "publications/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
     },
     {
       "path": "robots.txt",
@@ -703,9 +697,84 @@
       "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
     },
     {
+      "path": "team/china-coverage-110m.geojson",
+      "bytes": 9165,
+      "sha256": "6a7472d9ea4b9c45d0a8bb610e52502ab0310f2f73886e902b151503ba8a61cd"
+    },
+    {
+      "path": "team/heoa-official-logo-v01.png",
+      "bytes": 144271,
+      "sha256": "e1e5acd8cfc06f6568da5e6fa4764c51cc5f412714809a08b87aa421496cb8d0"
+    },
+    {
+      "path": "team/heoa-wechat-official-account-v01.webp",
+      "bytes": 84054,
+      "sha256": "382c5f877a0e692b7dc38c0691788320456348400c03009d82d966429f2fc43c"
+    },
+    {
       "path": "team/index.html",
       "bytes": 1733,
-      "sha256": "72a6914f1a2cdba6a35f00179eb940fc65d567003c532368360185e6506784cd"
+      "sha256": "108af2c392362584666599802c4e327e27c812e3abc5f14fa9f4b21b8ca8dd17"
+    },
+    {
+      "path": "team/land-110m.geojson",
+      "bytes": 138160,
+      "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9"
+    },
+    {
+      "path": "team/leaflet-heat-LICENSE.txt",
+      "bytes": 1321,
+      "sha256": "9010b843aad8e450890fc18dae2dfec00e68c10da775515801c42878afbb0da1"
+    },
+    {
+      "path": "team/leaflet-heat.js",
+      "bytes": 5158,
+      "sha256": "eb952aae5806a1102729f291bab887dde783ace859819a354827a776e73e486a"
+    },
+    {
+      "path": "team/leaflet-LICENSE.txt",
+      "bytes": 1395,
+      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+    },
+    {
+      "path": "team/leaflet-markercluster.js",
+      "bytes": 34136,
+      "sha256": "1e4e1d22972a3926f48598e0caf14e3fe7049835d428a344fed4f9e3665b3508"
+    },
+    {
+      "path": "team/leaflet.css",
+      "bytes": 14806,
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "team/leaflet.js",
+      "bytes": 147552,
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "team/markercluster-LICENSE.txt",
+      "bytes": 1052,
+      "sha256": "3133dacd38250bd1f524d8166cc60a016a382522e062fce143691c65bf5e4b3d"
+    },
+    {
+      "path": "team/MarkerCluster.css",
+      "bytes": 872,
+      "sha256": "614dea0a98ff3f4ead74f04918f6b1d1b9ba435c25b5fc23b21a394d1e3e4d87"
+    },
+    {
+      "path": "team/visitor-snapshot.json",
+      "bytes": 963,
+      "sha256": "af8e1657e5dad6f0c89b09824a6985e29f1e23a8f3b96335cca11a36a645e757"
+    },
+    {
+      "path": "team/west-china-health-medical-geography-logo-motion-v1.html",
+      "bytes": 668814,
+      "sha256": "c1b1a825508fe34b11c41837315108beea55736b6065debd26ad379b53ee2b9a"
+    },
+    {
+      "path": "team/west-china-health-medical-geography-logo-static-v1.webp",
+      "bytes": 124544,
+      "sha256": "6ad5362fc9741880eef61ad18fb220e0acae4cb72eaa1e063f9fab0033f04e47"
     }
   ]
 }
