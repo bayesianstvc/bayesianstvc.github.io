@@ -3,33 +3,43 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="BSTVC — Bayesian Spatiotemporally Varying Coefficients for local interpretation, global attribution, and dynamic prediction." />
+    
     <meta name="theme-color" content="#D8C9B9" />
-    <meta property="og:site_name" content="BSTVC Organization" />
-    <meta property="og:title" content="BSTVC | Bayesian Spatiotemporal Modeling &amp; Interpretation" />
-    <meta property="og:description" content="A Bayesian spatiotemporal interpretability framework and product ecosystem." />
+    
+    
+    
+    
+    
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="/images/bstvc-emblem-fallback.png" />
+    <meta property="og:image" content="https://bayesianstvc.github.io/images/bstvc-emblem-fallback.png" />
     <link rel="icon" href="/images/bstvc-favicon.png" />
     <script>
       if ((location.pathname.replace(/\/+$/, "") || "/") === "/") {
         [
           ["/images/generated/bstvc-museum-treasure-transparent-v16.webp", "image/webp"],
-          ["/images/generated/bstvc-museum-hall-v21-balanced.png", "image/png"],
-        ].forEach(([href, type]) => {
+          ["/images/generated/bstvc-museum-hall-v21-balanced.png", "image/png", "(min-width: 1051px)"],
+        ].forEach(([href, type, media]) => {
           const link = document.createElement("link");
           link.rel = "preload";
           link.as = "image";
           link.href = href;
           link.type = type;
+          if (media) link.media = media;
           link.fetchPriority = "high";
           document.head.appendChild(link);
         });
       }
     </script>
-    <title>BSTVC | Bayesian Spatiotemporal Modeling &amp; Interpretation</title>
-    <script type="module" crossorigin src="/assets/index-DKHSsTln.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-DuzvVy3c.css">
+    
+    <script type="module" crossorigin src="/assets/index-BoqX97-O.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DXWgXC-A.css">
+      <title>The people behind the framework. | BSTVC</title>
+    <meta name="description" content="Meet the West China Health &amp; Medical Geography Group, a research group within the HEOA think tank, and explore the shared geography of the BSTVC community." />
+    <meta property="og:title" content="The people behind the framework. | BSTVC" />
+    <meta property="og:description" content="Meet the West China Health &amp; Medical Geography Group, a research group within the HEOA think tank, and explore the shared geography of the BSTVC community." />
+    <meta property="og:site_name" content="BSTVC Spatiotemporal Interpretability Research Initiative" />
+    <link rel="canonical" href="https://bayesianstvc.github.io/team/" />
+    <meta property="og:url" content="https://bayesianstvc.github.io/team/" />
   </head>
   <body>
     <div id="root"></div>
