@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:38:24.874Z",
+  "generatedAt": "2026-09-10T10:46:25.927Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -13,8 +13,8 @@
     "/publications",
     "/team"
   ],
-  "fileCount": 160,
-  "totalBytes": 103124485,
+  "fileCount": 163,
+  "totalBytes": 104923963,
   "files": [
     {
       "path": ".nojekyll",
@@ -44,12 +44,17 @@
     {
       "path": "404.html",
       "bytes": 1764,
-      "sha256": "351c1b8ba98a42c37388b802dce7c12eba67ae90853171a628cda98b38b0a59e"
+      "sha256": "d8b67e273ef12e13dd5791f691f0dd2d4767de0f7f2e74f525a02d5d4200bbfe"
     },
     {
       "path": "applications/index.html",
       "bytes": 2044,
-      "sha256": "2597c1f15aabb454f690521ba389c2c9c06a1179b1e0520ce62f57ad6f9b8cec"
+      "sha256": "2cc80d8650ee281c0efdfcacb5e023c22b10849cc0cb13eae57cb35e5a473795"
+    },
+    {
+      "path": "assets/BSTVCSceneGLB-Ck_MNJQj.js",
+      "bytes": 1038316,
+      "sha256": "1e7a99d0aee0d9f33f88f65cffdcd7754604ff180ae10d9fb2849eb7c92abd0b"
     },
     {
       "path": "assets/BSTVCSceneGLB-DuO75Gkj.js",
@@ -72,6 +77,11 @@
       "sha256": "f0f056d7de52adb26c2fb6994b345dbcc7fcba8ae3c52f5ff71728e460de4b80"
     },
     {
+      "path": "assets/index-C2MD_27M.css",
+      "bytes": 336442,
+      "sha256": "36aad6e63ed8a2580122daa8a7a912811ac2b853343c8e25f9bc7f219942eb3f"
+    },
+    {
       "path": "assets/index-DXWgXC-A.css",
       "bytes": 334229,
       "sha256": "0858f11c052d647bea82ca6633e237d704049414ca581b33c8683f3edc3a34ef"
@@ -80,6 +90,11 @@
       "path": "assets/index-JPYExyIt.js",
       "bytes": 424720,
       "sha256": "47cf6204cd4b569f172c769957a165fe80878b6645dc4f1f7a521ac4040b1c51"
+    },
+    {
+      "path": "assets/index-rtIko9al.js",
+      "bytes": 424720,
+      "sha256": "c5119cbec48808e35f3457a68d5c64b2f232e37b86512d08685f6c568e1415a3"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -114,7 +129,7 @@
     {
       "path": "downloads/index.html",
       "bytes": 1940,
-      "sha256": "3614844ec00d3dac6b52d3d74f10bf4f4d691608763b48ac05d187ef055c83a3"
+      "sha256": "f76f13a91113f81477b028b82c934de225fc8b2a58605b22df443128042a0b9a"
     },
     {
       "path": "identity-v07/index.html",
@@ -704,7 +719,7 @@
     {
       "path": "index.html",
       "bytes": 2152,
-      "sha256": "cf2b488192bd23da0d261348d64ea3233b07fb28b9cca77c2ac90678da324b3d"
+      "sha256": "f7196459249eabbfaf91613f699a153d01d892b203720234342b3c6be5237e9c"
     },
     {
       "path": "llms.txt",
@@ -714,7 +729,7 @@
     {
       "path": "methods/index.html",
       "bytes": 2208,
-      "sha256": "fb29bf6d02caccaee246e286f4dd68a90a70afb1c1f6c187bbac77cd865cbff7"
+      "sha256": "fc35fb3fffd1af6fa2337cbe6815afefa993ee2322fb4e9287786598206eb0bc"
     },
     {
       "path": "models/README.md",
@@ -724,12 +739,12 @@
     {
       "path": "products/index.html",
       "bytes": 2010,
-      "sha256": "f168ebdd57af3f2c530d9847ec76f15463738ecaf4742874bc76d2320d423464"
+      "sha256": "65b5d9eded5505219a56fa446b17c2259fbcc70d4122b7fef19bae54c46ad4ed"
     },
     {
       "path": "publications/index.html",
       "bytes": 1972,
-      "sha256": "7880e079467307d1644a856d22103825a0e78db3a24e48c489734434363f8b52"
+      "sha256": "d5c825a900ae4fcf3c6f07437973dcc933bff6d6e87a3a695d6ca90e60cd789d"
     },
     {
       "path": "robots.txt",
@@ -754,7 +769,7 @@
     {
       "path": "team/index.html",
       "bytes": 2136,
-      "sha256": "2ce031ee524f3053ab59eff3f2bd7fb5bac603d590b47447cc5e60e7f351745e"
+      "sha256": "e1a41dcca232eba48597f6c54b29df389b753dd50f08cc796d32904334bc872d"
     },
     {
       "path": "team/land-110m.geojson",
