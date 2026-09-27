@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:16:56.559Z",
+  "generatedAt": "2026-09-27T18:12:58.625Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -13,9 +13,14 @@
     "/publications",
     "/team"
   ],
-  "fileCount": 183,
-  "totalBytes": 281000327,
+  "fileCount": 186,
+  "totalBytes": 288171120,
   "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 153,
+      "sha256": "0abb2a67f4814331fc20baaa28b40a6d9fde01ac846cc9d27963ea6bbc03e533"
+    },
     {
       "path": ".nojekyll",
       "bytes": 0,
@@ -44,37 +49,37 @@
     {
       "path": "404.html",
       "bytes": 2603,
-      "sha256": "44cb31558e22d4effae605f735005c0391a4a8167c897708ab8bca52ba5a3e54"
+      "sha256": "44d493f923b1100334f98aa029643370d3299edd94f5518a3e6798d7ca4459d5"
     },
     {
       "path": "applications/index.html",
       "bytes": 2883,
-      "sha256": "2756adc6bd057e3d6098ac0eef4adce2ae53969405c0afa77f1c00968df98d3a"
+      "sha256": "2080c739472586d0a50e4d5b958979fe59dabaa43a6e7c9485b90e1b6a040d64"
     },
     {
-      "path": "assets/ApplicationsPage-CbKSDc1_.js",
+      "path": "assets/ApplicationsPage-C-YYAu2D.js",
       "bytes": 15145,
-      "sha256": "9b75c21ba34a24344b1da0653282798631668e14430f8c8e14092932fd9803aa"
+      "sha256": "069c8002cbe2d476678ee443c71337b2e74b221b311a65a6fe389588a19dc07e"
     },
     {
-      "path": "assets/BSTVCSceneGLB-k2DNOX-p.js",
+      "path": "assets/BSTVCSceneGLB-o-VDyi-K.js",
       "bytes": 1039973,
-      "sha256": "f41b7761a6601f52e01c01b06a7fd395cadcdd4da4da29749f981c705514d382"
+      "sha256": "0a28e18364c3d06515aeda2a95b4f03568dbd60037fe54b0c4b5d190cb6bdbbc"
     },
     {
-      "path": "assets/DownloadsPage-Bck3WgAe.js",
+      "path": "assets/DownloadsPage-Drd1egjt.js",
       "bytes": 19448,
-      "sha256": "bcb26b68efb9cb3f5c5a99ff40df93b1e2a267e738b418205e4c72d454a899d5"
+      "sha256": "9b8e3452e1a03da1cd9e915b1f802a6d6e3a03bcc9cbcc2b527451c7b97103ef"
     },
     {
-      "path": "assets/index-1DeulC1K.js",
-      "bytes": 406674,
-      "sha256": "732a40534061b92326ec0dd02d5b28adf673d30d50e21684ca0d4c7585764810"
+      "path": "assets/index-BvhIFlJA.css",
+      "bytes": 415913,
+      "sha256": "528cdc080cb877c4e4479c17ce92252dfb6dc39e5fa2c7e48f740e1afec2f1c5"
     },
     {
-      "path": "assets/index-C1woOHVY.css",
-      "bytes": 409443,
-      "sha256": "dd2a4f95b541c261a974017f714667a7cc74041b02493e3ec4631b9287aca33d"
+      "path": "assets/index-DG5nO3D7.js",
+      "bytes": 404776,
+      "sha256": "11e4ab03820c89995d23e3e52e0958815b9696765ddfd7e8ec1dbe8b8ff61f10"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -107,19 +112,29 @@
       "sha256": "3afd64d114a27e2f6604684c30f72d6dbb6ba3e6f6b1675f15a942efc7a56410"
     },
     {
-      "path": "assets/TeamPage-BLsuf7ub.js",
+      "path": "assets/TeamPage--5dTf6mf.js",
       "bytes": 32272,
-      "sha256": "e34e65ac3a24c0d9cf1d02dabfd3702dfc5ab0aecd796d4882f480e8240734e2"
+      "sha256": "ccdf6fb1cccefa7e99289e55526100b02615be159afb36f48826ca5bfe640fa7"
     },
     {
       "path": "downloads/index.html",
       "bytes": 2779,
-      "sha256": "1ae5eed33cb0df8e0e3d762ba6d8048d373662fd598693997cb609860c4f6b5d"
+      "sha256": "a782820a2bafe1a027c504d5be52b8e11682193c2f00683e2a532bbfe0dbfac5"
     },
     {
       "path": "film/index.html",
+      "bytes": 7060062,
+      "sha256": "8db711b4b756f9a16def900d2695530298fdae60ef030e34b7dafa3dc462e1db"
+    },
+    {
+      "path": "film/legacy-en/index.html",
       "bytes": 24336099,
       "sha256": "ffb4cc20761a79d81213641bf8e93e32daacef9f8247ff6032b64b4fb6908d27"
+    },
+    {
+      "path": "film/poster-1920.jpg",
+      "bytes": 106006,
+      "sha256": "b4957fb833bd2221f928ba10965c21ad4229c8d7775bd7cf2e7b7f0386f0e746"
     },
     {
       "path": "identity-v07/index.html",
@@ -794,7 +809,7 @@
     {
       "path": "index.html",
       "bytes": 2993,
-      "sha256": "86f4722b490ffc0d6470042d4f07f425261e9da52bd6c0423b731ece0e62c7c9"
+      "sha256": "974326cda4507e229f506f10171aaabcd105fcb8abaf0ea4c5891270339e0875"
     },
     {
       "path": "llms.txt",
@@ -804,7 +819,7 @@
     {
       "path": "methods/index.html",
       "bytes": 3049,
-      "sha256": "3c107a225ec8f113cdb504cd97eb5bf1c2ea05a9e2d8ecb8a12cd7eb4d112a0f"
+      "sha256": "556194baa3ba95caf61b55e9a35a2e0bd0a8c063d6e94f11df55428cf4096bf0"
     },
     {
       "path": "models/README.md",
@@ -814,12 +829,12 @@
     {
       "path": "products/index.html",
       "bytes": 2849,
-      "sha256": "f45fb4992db20ebfd9465ed98f5ddd3511b7ab090c9b4d646639e280d06efd7a"
+      "sha256": "deb67d6008f49810dfdef24696b56763a86bf478a9985ad8473fcc6138186165"
     },
     {
       "path": "publications/index.html",
       "bytes": 2811,
-      "sha256": "715d625c0d68c58c9cb48074fdf563cc298a1419a513fbce63d0d6b80642e535"
+      "sha256": "f8f2bab12089a60930e002bf4bf1c31b583973c0cb7162fc9de7d25256079150"
     },
     {
       "path": "robots.txt",
@@ -844,7 +859,7 @@
     {
       "path": "team/index.html",
       "bytes": 2975,
-      "sha256": "e61c75d0d27b6193463a2802f077bb8b81f51c1e51166e1e5e6583b5689d7baf"
+      "sha256": "d109f75ebe5d02505062bfa75a49790dfa6e3cccdc8b421dd40c90a3cb2a6185"
     },
     {
       "path": "team/land-110m.geojson",

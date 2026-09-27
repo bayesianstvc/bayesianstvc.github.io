@@ -1,0 +1,3 @@
+# Self-contained film deliveries must remain byte-identical, including line endings.
+/film/index.html -text -diff
+/film/legacy-en/index.html -text -diff
