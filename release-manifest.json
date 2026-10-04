@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:12:58.625Z",
+  "generatedAt": "2026-10-04T07:00:01.793Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -13,8 +13,8 @@
     "/publications",
     "/team"
   ],
-  "fileCount": 186,
-  "totalBytes": 288171120,
+  "fileCount": 195,
+  "totalBytes": 399637386,
   "files": [
     {
       "path": ".gitattributes",
@@ -48,38 +48,38 @@
     },
     {
       "path": "404.html",
-      "bytes": 2603,
-      "sha256": "44d493f923b1100334f98aa029643370d3299edd94f5518a3e6798d7ca4459d5"
+      "bytes": 2596,
+      "sha256": "19666a5f0b31bebea92847a9b4909e450ebe6d2aca81bc3371c15ec70cc24090"
     },
     {
       "path": "applications/index.html",
-      "bytes": 2883,
-      "sha256": "2080c739472586d0a50e4d5b958979fe59dabaa43a6e7c9485b90e1b6a040d64"
+      "bytes": 2876,
+      "sha256": "1f3e4e9c5fd140b5d9902eb6a3d1dcf7606d2656a2b5072f7e30d779b513ec5c"
     },
     {
-      "path": "assets/ApplicationsPage-C-YYAu2D.js",
+      "path": "assets/ApplicationsPage-DL5Z-VKM.js",
       "bytes": 15145,
-      "sha256": "069c8002cbe2d476678ee443c71337b2e74b221b311a65a6fe389588a19dc07e"
+      "sha256": "be73b1b838d3c8068c29792c06f0d5fbfe3fd46831f58f8576dcc90e2099b593"
     },
     {
-      "path": "assets/BSTVCSceneGLB-o-VDyi-K.js",
-      "bytes": 1039973,
-      "sha256": "0a28e18364c3d06515aeda2a95b4f03568dbd60037fe54b0c4b5d190cb6bdbbc"
+      "path": "assets/BSTVCSceneGLB-CurM4rMl.js",
+      "bytes": 1043338,
+      "sha256": "871a2fa9b501f741e51ab27f210daabcc02ddf1ec63a485b57a2beb3d232b708"
     },
     {
-      "path": "assets/DownloadsPage-Drd1egjt.js",
+      "path": "assets/DownloadsPage-C-QbiPwa.js",
       "bytes": 19448,
-      "sha256": "9b8e3452e1a03da1cd9e915b1f802a6d6e3a03bcc9cbcc2b527451c7b97103ef"
+      "sha256": "1059a1a1ee0b31da27e21063595eca1fcbb8bf9bd70ffd00f6cd53642af2e073"
     },
     {
-      "path": "assets/index-BvhIFlJA.css",
-      "bytes": 415913,
-      "sha256": "528cdc080cb877c4e4479c17ce92252dfb6dc39e5fa2c7e48f740e1afec2f1c5"
+      "path": "assets/index-ChCN_D-k.js",
+      "bytes": 408624,
+      "sha256": "dc2322c303221ff4ea7ce5d4d56e90ef1aab36f8ce795e059b64d47cce5e0034"
     },
     {
-      "path": "assets/index-DG5nO3D7.js",
-      "bytes": 404776,
-      "sha256": "11e4ab03820c89995d23e3e52e0958815b9696765ddfd7e8ec1dbe8b8ff61f10"
+      "path": "assets/index-pBBgKW9T.css",
+      "bytes": 417761,
+      "sha256": "0b6a20f0fb53a2ed88601ea2f00df972dc1562ba921753744016e9f36b63d5cc"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -112,14 +112,14 @@
       "sha256": "3afd64d114a27e2f6604684c30f72d6dbb6ba3e6f6b1675f15a942efc7a56410"
     },
     {
-      "path": "assets/TeamPage--5dTf6mf.js",
+      "path": "assets/TeamPage-kOUhm6P_.js",
       "bytes": 32272,
-      "sha256": "ccdf6fb1cccefa7e99289e55526100b02615be159afb36f48826ca5bfe640fa7"
+      "sha256": "2c36690c5c3bad26ffa6cf2db0f9c745b47b8bf0ea4207d9bdf8b54d209b11e0"
     },
     {
       "path": "downloads/index.html",
-      "bytes": 2779,
-      "sha256": "a782820a2bafe1a027c504d5be52b8e11682193c2f00683e2a532bbfe0dbfac5"
+      "bytes": 2772,
+      "sha256": "2ed2e9053f7b1c4d9e61a5a9152394152d20b69acddc01eb42e434631b9ee0cd"
     },
     {
       "path": "film/index.html",
@@ -567,6 +567,11 @@
       "sha256": "9b460a8cdb400030b444daa119408cc329a98da6aa0ea64ec60bf039ef096769"
     },
     {
+      "path": "images/desktop/output-prediction-en-v38.webp",
+      "bytes": 739028,
+      "sha256": "61ff6ddee448d9f44a34c196054b7d3d832f13c904d0c8bb88fb14bd036855b2"
+    },
+    {
       "path": "images/desktop/output-prediction-original-en.png",
       "bytes": 1650890,
       "sha256": "6945ac1a0f2c4f8d320c91e3985c2755ce51be38d147bc6af56317f9216da272"
@@ -580,6 +585,11 @@
       "path": "images/desktop/output-stvpi-en-v36.png",
       "bytes": 992628,
       "sha256": "7277e9e4b5a08f1456a5954060dda0dc26aaa00f8b073e297dcd77532b1a7143"
+    },
+    {
+      "path": "images/desktop/output-stvpi-en-v38.webp",
+      "bytes": 668322,
+      "sha256": "efe090fb951f84b0c4fcd55b18cba8d36d7d3399547ce0376f30801f84458e55"
     },
     {
       "path": "images/desktop/output-stvpi-original-en.png",
@@ -640,6 +650,16 @@
       "path": "images/generated/bstvc-museum-hall-v21-balanced.png",
       "bytes": 1381277,
       "sha256": "b1d567f04f84b72d6b77c65fe6e6a444900af15881e6eadde1404cf86fae8064"
+    },
+    {
+      "path": "images/generated/bstvc-museum-hall-v38-lossless.webp",
+      "bytes": 987854,
+      "sha256": "167b836955995718e66228212f404d4b50dc363d8593b35a85e7200e4a5cce88"
+    },
+    {
+      "path": "images/generated/bstvc-museum-hall-v38.webp",
+      "bytes": 63844,
+      "sha256": "0c9e0608f83ce65238603f5dfc2821d3ce68fbf826a90fdbf94d65a66d3d8f6e"
     },
     {
       "path": "images/generated/bstvc-museum-reflection-v10.webp",
@@ -808,8 +828,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 2993,
-      "sha256": "974326cda4507e229f506f10171aaabcd105fcb8abaf0ea4c5891270339e0875"
+      "bytes": 2986,
+      "sha256": "cdabdf17c1d51aa7cc9a8e3d8f382d13306ab69d1e39baec0ee546123fc603be"
     },
     {
       "path": "llms.txt",
@@ -818,8 +838,8 @@
     },
     {
       "path": "methods/index.html",
-      "bytes": 3049,
-      "sha256": "556194baa3ba95caf61b55e9a35a2e0bd0a8c063d6e94f11df55428cf4096bf0"
+      "bytes": 3042,
+      "sha256": "1bec31c976f5fab656e71a037ed7f89a39b6bb246616c21cd29cd3ee964e66aa"
     },
     {
       "path": "models/README.md",
@@ -828,13 +848,13 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 2849,
-      "sha256": "deb67d6008f49810dfdef24696b56763a86bf478a9985ad8473fcc6138186165"
+      "bytes": 2842,
+      "sha256": "eee5d916919a244f8ffdfe08175fc8236cbd14584a684e23f7d0b50d4b9e37db"
     },
     {
       "path": "publications/index.html",
-      "bytes": 2811,
-      "sha256": "f8f2bab12089a60930e002bf4bf1c31b583973c0cb7162fc9de7d25256079150"
+      "bytes": 2804,
+      "sha256": "82763792912eabcec66593e55b6be1e8f11265ee0cdc84569fcbb5c93201dd14"
     },
     {
       "path": "robots.txt",
@@ -858,8 +878,8 @@
     },
     {
       "path": "team/index.html",
-      "bytes": 2975,
-      "sha256": "d109f75ebe5d02505062bfa75a49790dfa6e3cccdc8b421dd40c90a3cb2a6185"
+      "bytes": 2968,
+      "sha256": "b0d38905ffc090cd8743ee81a8295078a17ac8450f13e317826af3520bb98edc"
     },
     {
       "path": "team/land-110m.geojson",
@@ -920,6 +940,31 @@
       "path": "team/west-china-health-medical-geography-logo-static-v1.webp",
       "bytes": 124544,
       "sha256": "6ad5362fc9741880eef61ad18fb220e0acae4cb72eaa1e063f9fab0033f04e47"
+    },
+    {
+      "path": "video/atlas-v07-1080p.mp4",
+      "bytes": 18318180,
+      "sha256": "8c828721d4cad98e5e2b2620a09d219cbfec7db24b5f6c3a3f06a473160b7804"
+    },
+    {
+      "path": "video/atlas-v07-360p.mp4",
+      "bytes": 3311014,
+      "sha256": "d0641a1a3065ac47f908a7a3c094ab0318f81b6dadab267e23007c3aae16b9da"
+    },
+    {
+      "path": "video/atlas-v07-480p.mp4",
+      "bytes": 5287029,
+      "sha256": "2956a4a7a8b075b9150d6b1407277bc58fde79d37857450253768518098608d6"
+    },
+    {
+      "path": "video/atlas-v07-4k.mp4",
+      "bytes": 72166306,
+      "sha256": "a9feab304c64da69e54354075d5f06944ed70a94c0c7c064c5bbae8325035357"
+    },
+    {
+      "path": "video/atlas-v07-720p.mp4",
+      "bytes": 9915684,
+      "sha256": "79fbe7290dde75f43ffb8e1db90fd071c06a2532fa2723415da519d420d3228e"
     },
     {
       "path": "video/bstvc-film-1080p.mp4",
