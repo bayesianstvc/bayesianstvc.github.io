@@ -5,6 +5,18 @@
 - [Methods](/methods)
 - [Applications](/applications)
 - [Downloads](/downloads)
-- [Documentation](/docs)
+- [Desktop learning hub](https://bayesianstvc.github.io/BSTVC-Desktop/#knowledge)
 - [Team](/team)
 - [BSTVC Organization](https://github.com/bayesianstvc)
+
+## Desktop V2
+
+Desktop V2 English Windows x64: package 26.10.25, released 3 November 2026. Other BSTVC products retain their own versions.
+
+- [English installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)
+- [Release notes and checksum](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)
+- [English V2 update and three public case comparisons](https://bayesianstvc.github.io/BSTVC-Desktop/v2/)
+- [中文更新与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/)
+- [Chao Song homepage](https://chaosong.blog/)
+
+The case comparisons concern reported 95% credible-interval widths; they do not establish general accuracy or calibration.

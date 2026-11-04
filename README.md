@@ -26,9 +26,20 @@ The website currently presents four ways to work with the BSTVC ecosystem.
 
 Product repositories and release pages are the sources of truth for current versions, platforms, installers, checksums, requirements, and installation notes.
 
+### BSTVC Desktop V2 — English Windows release
+
+BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **3 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
+
+- [Download the English V2 installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe) — 547,613,237 bytes.
+- [V2 release, SHA-256, and installation notes](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
+- [English V2 update and three public case comparisons](https://bayesianstvc.github.io/BSTVC-Desktop/v2/).
+- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/).
+
+The case comparisons concern the widths of reported 95% Bayesian credible intervals. Narrower intervals alone do not establish greater accuracy, calibration, or general scientific validation.
+
 ### TEAM
 
-- [Chao Song](https://homepage.songchao-bstvc.chatgpt.site/) — Project Lead / Methods; Bayesian spatiotemporal statistics, health and medical geography, and interpretable GeoAI.
+- [Chao Song](https://chaosong.blog/) — Project Lead / Methods; Bayesian spatiotemporal statistics, health and medical geography, and interpretable GeoAI.
 - [Xianteng Tang](https://tangxxxxt.github.io/) — Software / Desktop; system design, desktop engineering, and user support.
 - [BSTVC Organization on GitHub](https://github.com/bayesianstvc) — BSTVC organization homepage.
 
@@ -68,9 +79,20 @@ BSTVC（Bayesian Spatiotemporally Varying Coefficients，贝叶斯时空变系�
 
 产品仓库和发布页面是当前版本、平台、安装包、校验和、系统要求及安装说明的来源。
 
+### BSTVC 桌面版 V2 — 英文 Windows 安装包
+
+BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-03**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
+
+- [下载英文 V2 安装包](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)（547,613,237 字节）。
+- [V2 发布说明、SHA-256 与安装提示](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)。
+- [英文 V2 更新与三个公开案例比较](https://bayesianstvc.github.io/BSTVC-Desktop/v2/)。
+- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/)。
+
+案例比较的指标是已报告的 95% 贝叶斯可信区间宽度。区间收窄本身不能证明估计更准确、区间已校准或完成全面科学验证。
+
 ### TEAM / 核心团队
 
-- [Chao Song / 宋超](https://homepage.songchao-bstvc.chatgpt.site/) — 项目负责人 / 方法：贝叶斯时空统计、健康与医学地理、可解释 GeoAI。
+- [Chao Song / 宋超](https://chaosong.blog/) — 项目负责人 / 方法：贝叶斯时空统计、健康与医学地理、可解释 GeoAI。
 - [Xianteng Tang / 唐先腾](https://tangxxxxt.github.io/) — 软件 / 桌面工具：系统设计、桌面工程与用户支持。
 - [BSTVC Organization on GitHub](https://github.com/bayesianstvc) — BSTVC 组织主页。
 
