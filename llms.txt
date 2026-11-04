@@ -11,6 +11,10 @@
 
 ## Desktop V2
 
+The three public case comparisons report case-level summaries of 95% regression-coefficient credible-interval widths that are about **94%–99% narrower for temporal coefficients** and **38%–98% narrower for spatial coefficients** than V1.
+
+These are reported width comparisons in three cases; narrower intervals alone do not establish greater accuracy or calibration.
+
 Desktop V2 English Windows x64: package 26.10.25, released 4 November 2026. Other BSTVC products retain their own versions.
 
 - [English installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)

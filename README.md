@@ -6,6 +6,19 @@
 
 BSTVC (Bayesian Spatiotemporally Varying Coefficients) is a Bayesian methodology and product ecosystem for understanding spatiotemporal heterogeneity. This repository contains the source code, page resources, and published content of the official website.
 
+### BSTVC Desktop V2 — three public case comparisons
+
+The three public case comparisons report case-level summaries of 95% regression-coefficient credible-interval widths that are about **94%–99% narrower for temporal coefficients** and **38%–98% narrower for spatial coefficients** than V1.
+
+These are reported width comparisons in three cases; narrower intervals alone do not establish greater accuracy or calibration.
+
+BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
+
+- [Download the English V2 installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe) — 547,613,237 bytes.
+- [V2 release, SHA-256, and installation notes](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
+- [English V2 update and three public case comparisons](https://bayesianstvc.github.io/BSTVC-Desktop/v2/).
+- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/).
+
 ### Three Core Capabilities
 
 1. **Local Spatiotemporal Interpretability**  
@@ -25,17 +38,6 @@ The website currently presents four ways to work with the BSTVC ecosystem.
 4. [BSTVC-Monitor](https://github.com/bayesianstvc/BSTVC-Monitor) — Local resource diagnostics.
 
 Product repositories and release pages are the sources of truth for current versions, platforms, installers, checksums, requirements, and installation notes.
-
-### BSTVC Desktop V2 — English Windows release
-
-BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
-
-- [Download the English V2 installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe) — 547,613,237 bytes.
-- [V2 release, SHA-256, and installation notes](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
-- [English V2 update and three public case comparisons](https://bayesianstvc.github.io/BSTVC-Desktop/v2/).
-- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/).
-
-The case comparisons concern the widths of reported 95% Bayesian credible intervals. Narrower intervals alone do not establish greater accuracy, calibration, or general scientific validation.
 
 ### TEAM
 
@@ -59,6 +61,19 @@ Unless otherwise stated, the website source code, original design, and original 
 
 BSTVC（Bayesian Spatiotemporally Varying Coefficients，贝叶斯时空变系数）是一个面向时空异质性解释的贝叶斯方法与产品体系。本仓库保存 BSTVC 官方网站的源代码、页面资源和发布内容。
 
+### BSTVC 桌面版 V2 — 三个公开案例的区间宽度变化
+
+本批三个公开案例的 V1/V2 对比材料报告：回归系数 95% 贝叶斯可信区间的案例汇总宽度，时间部分缩小约 **94%–99%**，空间部分缩小约 **38%–98%**。
+
+以上为三个案例的已报告宽度比较；区间收窄本身不能证明估计更准确或区间已校准。
+
+BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-04**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
+
+- [下载英文 V2 安装包](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)（547,613,237 字节）。
+- [V2 发布说明、SHA-256 与安装提示](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)。
+- [英文 V2 更新与三个公开案例比较](https://bayesianstvc.github.io/BSTVC-Desktop/v2/)。
+- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/)。
+
 ### 三项核心功能
 
 1. **局部时空可解释性**  
@@ -78,17 +93,6 @@ BSTVC（Bayesian Spatiotemporally Varying Coefficients，贝叶斯时空变系�
 4. [BSTVC-Monitor](https://github.com/bayesianstvc/BSTVC-Monitor) — 本地资源诊断工具。
 
 产品仓库和发布页面是当前版本、平台、安装包、校验和、系统要求及安装说明的来源。
-
-### BSTVC 桌面版 V2 — 英文 Windows 安装包
-
-BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-04**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
-
-- [下载英文 V2 安装包](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)（547,613,237 字节）。
-- [V2 发布说明、SHA-256 与安装提示](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)。
-- [英文 V2 更新与三个公开案例比较](https://bayesianstvc.github.io/BSTVC-Desktop/v2/)。
-- [中文 V2 更新、案例与视频](https://bayesianstvc.github.io/BSTVC-Desktop/zh/v2/)。
-
-案例比较的指标是已报告的 95% 贝叶斯可信区间宽度。区间收窄本身不能证明估计更准确、区间已校准或完成全面科学验证。
 
 ### TEAM / 核心团队
 
