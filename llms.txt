@@ -11,7 +11,7 @@
 
 ## Desktop V2
 
-Desktop V2 English Windows x64: package 26.10.25, released 3 November 2026. Other BSTVC products retain their own versions.
+Desktop V2 English Windows x64: package 26.10.25, released 4 November 2026. Other BSTVC products retain their own versions.
 
 - [English installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)
 - [Release notes and checksum](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)

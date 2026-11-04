@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:47:07.760081Z",
+  "generatedAt": "2026-11-04T05:06:21.058847Z",
   "source": "dist/client",
   "excluded": [
     "3d/bstvc/production/bstvc-museum-treasure-hq-v04-meshopt.glb"
@@ -69,12 +69,12 @@
     {
       "path": "assets/DownloadsPage-C-QbiPwa.js",
       "bytes": 19697,
-      "sha256": "1ddb3540318515a3a5f468ed6cb0b1ec5ed75908243bd97a7d7dbbae6f42e4ee"
+      "sha256": "328b544eea39583a61e90c03e7333263df51339504dce60516a52fbed93a39f8"
     },
     {
       "path": "assets/index-ChCN_D-k.js",
       "bytes": 409163,
-      "sha256": "f8b2ae94edc7f71eca1099331dc956a09b8efe9a5f9608f5175ed845b56e0d34"
+      "sha256": "f3a594ea453715eb6793d6361cb56c960abf86a8c7d9fca9a292a63a4b7d62ed"
     },
     {
       "path": "assets/index-pBBgKW9T.css",
@@ -834,7 +834,7 @@
     {
       "path": "llms.txt",
       "bytes": 1141,
-      "sha256": "108f690f83870f3d063126020ab0c580dcb964fb38cf3bd6bb8ede5a3e813eec"
+      "sha256": "3a884de42034d413e2c847bfb30bf7c68e6c660e083e54381811101e790b60f8"
     },
     {
       "path": "methods/index.html",
@@ -994,7 +994,7 @@
   ],
   "scopedUpdate": {
     "name": "BSTVC Desktop V2 public entry update",
-    "publicationDate": "2026-11-03",
+    "publicationDate": "2026-11-04",
     "installerPackageDate": "2026.10.25",
     "originalSource": "dist/client",
     "method": "Scoped patch to published static output; original application source is not in this repository.",

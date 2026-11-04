@@ -28,7 +28,7 @@ Product repositories and release pages are the sources of truth for current vers
 
 ### BSTVC Desktop V2 — English Windows release
 
-BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **3 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
+BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
 
 - [Download the English V2 installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe) — 547,613,237 bytes.
 - [V2 release, SHA-256, and installation notes](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
@@ -81,7 +81,7 @@ BSTVC（Bayesian Spatiotemporally Varying Coefficients，贝叶斯时空变系�
 
 ### BSTVC 桌面版 V2 — 英文 Windows 安装包
 
-BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-03**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
+BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-04**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
 
 - [下载英文 V2 安装包](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe)（547,613,237 字节）。
 - [V2 发布说明、SHA-256 与安装提示](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25)。
