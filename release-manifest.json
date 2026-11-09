@@ -13,8 +13,8 @@
     "/publications",
     "/team"
   ],
-  "fileCount": 195,
-  "totalBytes": 399646405,
+  "fileCount": 203,
+  "totalBytes": 400608721,
   "files": [
     {
       "path": ".gitattributes",
@@ -48,38 +48,43 @@
     },
     {
       "path": "404.html",
-      "bytes": 3203,
-      "sha256": "b915737ec1c735c66889934738f6caad6fe70e3f1f389729f59addec6ee53a4a"
+      "bytes": 3198,
+      "sha256": "b7b59fa6bc8af35d1b08338d9862f46a6bb9e2a3c9dbd98dc165b23fc782170d"
     },
     {
       "path": "applications/index.html",
-      "bytes": 3483,
-      "sha256": "8b417f3b1167e9b8f8dfeba341d6973046ca98d3bf7445b51cc0e909aaadc6f9"
+      "bytes": 3478,
+      "sha256": "cdda66033c5d23ca43502d93f8c0d521cb17d308901cd31a91b0ed250d3facd7"
     },
     {
       "path": "assets/ApplicationsPage-DL5Z-VKM.js",
-      "bytes": 15164,
-      "sha256": "fb79f56b66930911bc17d910e6bb6e51b16610cc44dfc87b1e30f905c6672f93"
+      "bytes": 15162,
+      "sha256": "7b9badb265cd921806ff0c7b734e980f34c53f215600e9a8d4c73d97d44bba93"
     },
     {
       "path": "assets/BSTVCSceneGLB-CurM4rMl.js",
-      "bytes": 1043357,
-      "sha256": "9a3b7946ea913072749c0fa3957109ddd9be932f1b96284bf49402354a76a972"
+      "bytes": 1043355,
+      "sha256": "043e79e2ba141b3ce218a7ba16cd48c5fd8621b0a41966202ab274d20bd7b93b"
     },
     {
       "path": "assets/DownloadsPage-C-QbiPwa.js",
-      "bytes": 20600,
-      "sha256": "d7a97399754e0db0560b0d2f5ef0fc1c15bfb8b55753bbde09c689f3e7c9a17e"
+      "bytes": 20598,
+      "sha256": "50e9ae46a8ed88bfeb937587bc999678be970a673e045d750063b4cd69b0e1a3"
+    },
+    {
+      "path": "assets/TeamPage-kOUhm6P_.js",
+      "bytes": 32289,
+      "sha256": "82a1ffc7850420d9bd6842c5e0412c055e04e78e885c4a12fe0adcc9d0929614"
     },
     {
       "path": "assets/index-ChCN_D-k.js",
-      "bytes": 409499,
-      "sha256": "22aa69656289f1f7b09b084f99a750b536a4e589466c9f6b6928ce5aab16be35"
+      "bytes": 417040,
+      "sha256": "566de0ab749b5a40ccf326c69257e69f64a3f9d17fa151cb4c364cbd21cd3110"
     },
     {
       "path": "assets/index-pBBgKW9T.css",
-      "bytes": 420325,
-      "sha256": "122c444cabd7f5b6d548ecf091ff29decc56def403baeadea7277a936d49aada"
+      "bytes": 422525,
+      "sha256": "9f8f7e2b349da7aebe8d724435794f3b9b847c6f03978a43c452ac8cf3e5e381"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -112,14 +117,9 @@
       "sha256": "3afd64d114a27e2f6604684c30f72d6dbb6ba3e6f6b1675f15a942efc7a56410"
     },
     {
-      "path": "assets/TeamPage-kOUhm6P_.js",
-      "bytes": 32291,
-      "sha256": "d780606cbd78bb3dddeff90101d643b80cefeace6496bcb0812df7aa220984ad"
-    },
-    {
       "path": "downloads/index.html",
-      "bytes": 3625,
-      "sha256": "f67cd720c9cb7e1cc1de0dacdcecbf9ab71ac90755891a3b2b3cf326b833a720"
+      "bytes": 3620,
+      "sha256": "cd0df3cf5dbad6772c25c6dbc2ee95c8b27686d09aed397ee653dc4de277a0bf"
     },
     {
       "path": "film/index.html",
@@ -602,6 +602,46 @@
       "sha256": "614ff78074d7085f2787b3381369afb0e02df3faac3008d8653a561370d7fd95"
     },
     {
+      "path": "images/desktop/v2-figure-wall/Case1_Africa_U5MR_fig02_time_coefficients.png",
+      "bytes": 123243,
+      "sha256": "442b863d62058bf92f40fb8f9c8c0abd83fec60e7c4796ded542793e5cdde42e"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case1_Africa_U5MR_fig03_spatial_coefficients.png",
+      "bytes": 178115,
+      "sha256": "80e93746484c4f256ebd2009ca55ee9dfff9ae2b27d67f824cec9b3b81079132"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case2_COVID_fig07_prediction_accuracy.png",
+      "bytes": 33964,
+      "sha256": "cda3601e2ba4480ce1590953c9b1828d2e1d056deebe85692c9933033728729e"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case3_HBV_fig13_local_heatmap.png",
+      "bytes": 45340,
+      "sha256": "d7cc390efa96ab2cae446403745a43c65de5d74ecd0db25b6859a73cc614d20f"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case3_HBV_fig16_contrib_beeswarm.png",
+      "bytes": 44857,
+      "sha256": "77eca29f52f017986bf33ebd2d208ac1be34a892db0b8fb9fca3d64fd850898e"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case4a_US_suicide_binary_fig04_hotspots_Gi_star.png",
+      "bytes": 208594,
+      "sha256": "fe02d2d7b508e4888689012caf304b7c6f1bcffdd29b88c8521515d53ccae489"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case5_BSVC_US_suicide_2016_fig08_prediction_map.png",
+      "bytes": 105498,
+      "sha256": "6016ebf4b27cbdb7c3b5396accd590ece8bdc9607adeec1a4dcaec8716de62a3"
+    },
+    {
+      "path": "images/desktop/v2-figure-wall/Case6_HALE_global_fig08_prediction_maps.png",
+      "bytes": 228768,
+      "sha256": "e3d462929fcc051d494719e80fb4d5167c1713eede68cad3e4b4566495193a14"
+    },
+    {
       "path": "images/generated/bstvc-museum-hall-v08.png",
       "bytes": 1696657,
       "sha256": "579be17cca66b3f3c2a4cf1b9d8cfd52082e5758d0125641b0b57dff648b37f9"
@@ -828,8 +868,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3609,
-      "sha256": "579af351b07e4c6bb0d98244f5105b4c78981d273c2f2503ea4f531b09dec0b4"
+      "bytes": 3604,
+      "sha256": "0756c62b2ddb031cdeb39b16f4aced6ad02e5ec9baf40c11234329adcdfa7286"
     },
     {
       "path": "llms.txt",
@@ -838,8 +878,8 @@
     },
     {
       "path": "methods/index.html",
-      "bytes": 3649,
-      "sha256": "56e07597cdb2119b9e393d9eac55ab2e6c05c81eeb480741d924e8b3b57d7474"
+      "bytes": 3644,
+      "sha256": "7a0645dd9a03ffbbf7b9ef6b530a421b4db9595205c30a623055653632e1e4ce"
     },
     {
       "path": "models/README.md",
@@ -848,18 +888,23 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 3449,
-      "sha256": "85dfa77ed879eacae3df245d7454c6423d2dd574cc56961b8e3bd648af9f1b59"
+      "bytes": 3444,
+      "sha256": "e95f432fa7e97e404804c6caa87e0a5ac0741b3b28cac2c7ca7ca16e9505be41"
     },
     {
       "path": "publications/index.html",
-      "bytes": 3411,
-      "sha256": "c5eb297b746ca698e5cae02d212bd35c30d4489b29d3f35d19af2c3cc7c85c02"
+      "bytes": 3406,
+      "sha256": "013143047586558f6478c2aecb91b4188396563d51f3f99975fdd28d3293eeb8"
     },
     {
       "path": "robots.txt",
       "bytes": 23,
       "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "path": "team/MarkerCluster.css",
+      "bytes": 872,
+      "sha256": "614dea0a98ff3f4ead74f04918f6b1d1b9ba435c25b5fc23b21a394d1e3e4d87"
     },
     {
       "path": "team/china-coverage-110m.geojson",
@@ -878,13 +923,18 @@
     },
     {
       "path": "team/index.html",
-      "bytes": 3575,
-      "sha256": "7ac571e0c18664eba3b7ed0c6a3881f99403d0352c956ba80ded477605aa71b9"
+      "bytes": 3570,
+      "sha256": "99644f2050cfe83129302bbabbf36bd0d31ed756e02425de6f3aabed33253542"
     },
     {
       "path": "team/land-110m.geojson",
       "bytes": 138160,
       "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9"
+    },
+    {
+      "path": "team/leaflet-LICENSE.txt",
+      "bytes": 1395,
+      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
     },
     {
       "path": "team/leaflet-heat-LICENSE.txt",
@@ -895,11 +945,6 @@
       "path": "team/leaflet-heat.js",
       "bytes": 5158,
       "sha256": "eb952aae5806a1102729f291bab887dde783ace859819a354827a776e73e486a"
-    },
-    {
-      "path": "team/leaflet-LICENSE.txt",
-      "bytes": 1395,
-      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
     },
     {
       "path": "team/leaflet-markercluster.js",
@@ -920,11 +965,6 @@
       "path": "team/markercluster-LICENSE.txt",
       "bytes": 1052,
       "sha256": "3133dacd38250bd1f524d8166cc60a016a382522e062fce143691c65bf5e4b3d"
-    },
-    {
-      "path": "team/MarkerCluster.css",
-      "bytes": 872,
-      "sha256": "614dea0a98ff3f4ead74f04918f6b1d1b9ba435c25b5fc23b21a394d1e3e4d87"
     },
     {
       "path": "team/visitor-snapshot.json",
@@ -1177,5 +1217,83 @@
       }
     ],
     "stylesheetVersion": "20261109-figure-fit"
+  },
+  "figureWall": {
+    "cacheVersion": "20261109-v2-wall",
+    "caseCount": 6,
+    "figures": [
+      {
+        "path": "images/desktop/v2-figure-wall/Case6_HALE_global_fig08_prediction_maps.png",
+        "bytes": 228768,
+        "sha256": "e3d462929fcc051d494719e80fb4d5167c1713eede68cad3e4b4566495193a14",
+        "source": "Case-06-Continuous-Global-HALE/visualization/outputs/en/Case6_HALE_global_fig08_prediction_maps.png",
+        "case": 6,
+        "width": 2161,
+        "height": 590
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case1_Africa_U5MR_fig03_spatial_coefficients.png",
+        "bytes": 178115,
+        "sha256": "80e93746484c4f256ebd2009ca55ee9dfff9ae2b27d67f824cec9b3b81079132",
+        "source": "Case-01-Continuous-Africa-U5MR/visualization/outputs/en/Case1_Africa_U5MR_fig03_spatial_coefficients.png",
+        "case": 1,
+        "width": 2161,
+        "height": 708
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case1_Africa_U5MR_fig02_time_coefficients.png",
+        "bytes": 123243,
+        "sha256": "442b863d62058bf92f40fb8f9c8c0abd83fec60e7c4796ded542793e5cdde42e",
+        "source": "Case-01-Continuous-Africa-U5MR/visualization/outputs/en/Case1_Africa_U5MR_fig02_time_coefficients.png",
+        "case": 1,
+        "width": 2161,
+        "height": 637
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case3_HBV_fig16_contrib_beeswarm.png",
+        "bytes": 44857,
+        "sha256": "77eca29f52f017986bf33ebd2d208ac1be34a892db0b8fb9fca3d64fd850898e",
+        "source": "Case-03-Count-US-Hepatitis-B/visualization/outputs/en/local_coef_module/Case3_HBV_fig16_contrib_beeswarm.png",
+        "case": 3,
+        "width": 1417,
+        "height": 614
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case3_HBV_fig13_local_heatmap.png",
+        "bytes": 45340,
+        "sha256": "d7cc390efa96ab2cae446403745a43c65de5d74ecd0db25b6859a73cc614d20f",
+        "source": "Case-03-Count-US-Hepatitis-B/visualization/outputs/en/local_coef_module/Case3_HBV_fig13_local_heatmap.png",
+        "case": 3,
+        "width": 1417,
+        "height": 466
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case2_COVID_fig07_prediction_accuracy.png",
+        "bytes": 33964,
+        "sha256": "cda3601e2ba4480ce1590953c9b1828d2e1d056deebe85692c9933033728729e",
+        "source": "Case-02-Binary-China-COVID-19/visualization/outputs/en/Case2_COVID_fig07_prediction_accuracy.png",
+        "case": 2,
+        "width": 1051,
+        "height": 944
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case4a_US_suicide_binary_fig04_hotspots_Gi_star.png",
+        "bytes": 208594,
+        "sha256": "fe02d2d7b508e4888689012caf304b7c6f1bcffdd29b88c8521515d53ccae489",
+        "source": "Case-04-US-Suicide-Binary-and-Count/visualization/outputs/en/Case4a_US_suicide_binary_fig04_hotspots_Gi_star.png",
+        "case": 4,
+        "width": 2161,
+        "height": 980
+      },
+      {
+        "path": "images/desktop/v2-figure-wall/Case5_BSVC_US_suicide_2016_fig08_prediction_map.png",
+        "bytes": 105498,
+        "sha256": "6016ebf4b27cbdb7c3b5396accd590ece8bdc9607adeec1a4dcaec8716de62a3",
+        "source": "Case-05-BSVC-US-Suicide-2016/visualization/outputs/en/Case5_BSVC_US_suicide_2016_fig08_prediction_map.png",
+        "case": 5,
+        "width": 1417,
+        "height": 602
+      }
+    ]
   }
 }
