@@ -14,7 +14,7 @@
     "/team"
   ],
   "fileCount": 213,
-  "totalBytes": 403423950,
+  "totalBytes": 403423941,
   "files": [
     {
       "path": ".gitattributes",
@@ -48,8 +48,8 @@
     },
     {
       "path": "404.html",
-      "sha256": "5ec5a088f8e68b67acf91c80ca636cd901f2ddfb2ff934db02b63bf9f2262e4d",
-      "bytes": 3210
+      "bytes": 3208,
+      "sha256": "5ea5ae86ae418ba515a6d28bcbec901e81653823590381bd0580d970292e822a"
     },
     {
       "path": "README.md",
@@ -58,18 +58,18 @@
     },
     {
       "path": "applications/index.html",
-      "sha256": "472472bc26ef148724d0ab2c7ccea0dcc05544c23905036882e3afeb457908b2",
-      "bytes": 3490
+      "bytes": 3488,
+      "sha256": "c565b8a86d5bcfd7c87f7ed9dc87321fa870e4acb8dff4decad8a22251d99eb0"
     },
     {
       "path": "assets/ApplicationsPage-DL5Z-VKM.js",
-      "sha256": "f3852062d35c50b4403b0179fe6381796df6f97488b175201be744277eed4d10",
-      "bytes": 15177
+      "bytes": 15176,
+      "sha256": "29f9721656fb40b447904d245edd9f30ce00ad9fb9b04adf75b3823d25a55feb"
     },
     {
       "path": "assets/BSTVCSceneGLB-CurM4rMl.js",
-      "sha256": "eb03d27b8d19979a2b084f8bf92c2a617e46164f385f4445191b5f91d21aa629",
-      "bytes": 1043364
+      "bytes": 1043363,
+      "sha256": "fd640e48b0a1ac1afaf8a6e0995e1ed4771244fcd241d6af97a21cbf56277f94"
     },
     {
       "path": "assets/DownloadsPage-Bck3WgAe.js",
@@ -78,8 +78,8 @@
     },
     {
       "path": "assets/DownloadsPage-C-QbiPwa.js",
-      "sha256": "9d0f5d29d1852b2b92dc4be486e5817e4dd527ef1d9ef8c2922286b0d9f40ac4",
-      "bytes": 20648
+      "bytes": 20647,
+      "sha256": "20349194522a15dba87977f9a1b297edb2ac04e4fa5cf59dcf4cc6b6f746570a"
     },
     {
       "path": "assets/DownloadsPage-Drd1egjt.js",
@@ -88,8 +88,8 @@
     },
     {
       "path": "assets/TeamPage-kOUhm6P_.js",
-      "sha256": "48b469c0e34778bbe3b833d73a3859350d66c8d77b5bb4b00170114a0aea9f7d",
-      "bytes": 32298
+      "bytes": 32297,
+      "sha256": "ee2ab6daec69b3dce59c39d6c096188f19055c048bfc4d03fdd834f613172c53"
     },
     {
       "path": "assets/index-1DeulC1K.js",
@@ -103,8 +103,8 @@
     },
     {
       "path": "assets/index-ChCN_D-k.js",
-      "sha256": "aba0b94ecba5c6619b401176a6d9123a4a4362ae9d6be1aa2e25c6cd2a155151",
-      "bytes": 415699
+      "bytes": 415710,
+      "sha256": "4ab2af16f80ebcf1208d855ceeb9402f7df78f5c4195bc69b36aac032893d8bd"
     },
     {
       "path": "assets/index-DG5nO3D7.js",
@@ -168,8 +168,8 @@
     },
     {
       "path": "downloads/index.html",
-      "sha256": "3baef6684ea6d0339dba422c9dec8cf146eabdb25361db4102f8cb6a2fc60587",
-      "bytes": 3632
+      "bytes": 3630,
+      "sha256": "2eeda9ccb1fc1daf5a8a698925f8c54dbb116d46c535f9e4f70d04085d3a53a1"
     },
     {
       "path": "film/index.html",
@@ -918,8 +918,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "77018f23dc74f58ef782ea19a3ed538ee336cacdd4edd1cbeec09cf239a4e03d",
-      "bytes": 3089
+      "bytes": 3087,
+      "sha256": "c3893776d378d23634f561305aa55cee6e39968c68359bbc6b30db81e000bb87"
     },
     {
       "path": "llms.txt",
@@ -928,8 +928,8 @@
     },
     {
       "path": "methods/index.html",
-      "sha256": "5c5c1f311825f6e02d1febf0ba39aacf218db527758172847ba9bfc0fa98b36d",
-      "bytes": 3656
+      "bytes": 3654,
+      "sha256": "b67928f9c928c85bef85cf58c9f5c3d22645b65c86bff6b0bb950a843809a125"
     },
     {
       "path": "models/README.md",
@@ -938,13 +938,13 @@
     },
     {
       "path": "products/index.html",
-      "sha256": "a529d125d1b1d22fbd85ad848942213acff347b911c8bf8784700ce9612eaa3b",
-      "bytes": 3456
+      "bytes": 3454,
+      "sha256": "3ec34844f2fe9b488a3c162202b03f8d984709104c47734ffd92338a6236017e"
     },
     {
       "path": "publications/index.html",
-      "sha256": "726b468b2b7e32706839c3a3319b3a5a26897641484eef01ddd337a5c6b504c8",
-      "bytes": 3418
+      "bytes": 3416,
+      "sha256": "3e90f2e1b601fd469fb34915d2b8c0154be85245385f094ab73350c4bb1f8775"
     },
     {
       "path": "robots.txt",
@@ -973,8 +973,8 @@
     },
     {
       "path": "team/index.html",
-      "sha256": "29eb3bc08dea0251eb93a55d21730a73de32a1577c8d9fc2bba031568664e3c0",
-      "bytes": 3582
+      "bytes": 3580,
+      "sha256": "a97d9a50b1946adfac4846ef3e53a6c7047fce29cceb0f3cf63d89a57377e8e3"
     },
     {
       "path": "team/land-110m.geojson",
@@ -1347,12 +1347,13 @@
     ]
   },
   "desktopHero": {
-    "cacheVersion": "20261109-desktop-v2-focus",
+    "cacheVersion": "20261109-v2-public-final",
     "desktopHome": "https://bayesianstvc.github.io/BSTVC-Desktop/"
   },
   "publicLinkRefresh": {
-    "cacheVersion": "20261109-desktop-v2-focus",
+    "cacheVersion": "20261109-v2-public-final",
     "applicationSlide": "images/applications/source-57.webp",
-    "source": "https://bayesianstvc.github.io/BSTVC-Desktop/guide/v2-media/672a3dbafb0f6c4c850fb7e2358c8019bbc91e7a417908d6435693ecd38c5d44.webp"
+    "source": "https://bayesianstvc.github.io/BSTVC-Desktop/guide/v2-media/672a3dbafb0f6c4c850fb7e2358c8019bbc91e7a417908d6435693ecd38c5d44.webp",
+    "applicationSlideVersion": "672a3dbafb0f"
   }
 }
