@@ -12,7 +12,7 @@ The three public case comparisons report case-level summaries of 95% regression-
 
 These are reported width comparisons in three cases.
 
-BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
+BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. Desktop V2 is the current analysis release. BSTVC-R is the earlier V1 research prototype.
 
 - [Download the English V2 installer](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe) — 547,613,237 bytes.
 - [V2 release, SHA-256, and installation notes](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
@@ -32,7 +32,7 @@ BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25
 
 The website currently presents four ways to work with the BSTVC ecosystem.
 
-1. [BSTVC-R](https://github.com/bayesianstvc/BSTVC-R) — Reproducible modeling in R.
+1. [BSTVC-R](https://github.com/bayesianstvc/BSTVC-R) — V1 research prototype for reproducing earlier R analyses. [Get Desktop V2](https://bayesianstvc.github.io/BSTVC-Desktop/) for the latest release.
 2. [BSTVC-Desktop](https://bayesianstvc.github.io/BSTVC-Desktop/) — No-code Windows analysis.
 3. [BSTVC-Shiny](https://github.com/bayesianstvc/BSTVC-Shiny) — Interactive web exploration.
 4. [BSTVC-Monitor](https://github.com/bayesianstvc/BSTVC-Monitor) — Local resource diagnostics.
@@ -87,7 +87,7 @@ BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **202
 
 官网当前展示 BSTVC 体系的四种工作方式。
 
-1. [BSTVC-R](https://github.com/bayesianstvc/BSTVC-R) — 可复现的 R 建模包。
+1. [BSTVC-R](https://github.com/bayesianstvc/BSTVC-R) — V1 科研原型，供复现早期 R 分析。最新版本请使用 [BSTVC Desktop V2](https://bayesianstvc.github.io/BSTVC-Desktop/zh/)。
 2. [BSTVC-Desktop](https://bayesianstvc.github.io/BSTVC-Desktop/) — Windows 无代码分析工具。
 3. [BSTVC-Shiny](https://github.com/bayesianstvc/BSTVC-Shiny) — 交互式 Web 探索应用。
 4. [BSTVC-Monitor](https://github.com/bayesianstvc/BSTVC-Monitor) — 本地资源诊断工具。
