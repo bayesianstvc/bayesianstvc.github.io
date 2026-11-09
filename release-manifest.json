@@ -48,13 +48,13 @@
     },
     {
       "path": "404.html",
-      "bytes": 3200,
-      "sha256": "164eed53bf7bb3290342c00e837e707de8d555464421d1c9e4638625fabd199a"
+      "bytes": 3204,
+      "sha256": "f8617b3133aa4a9f2690331fc38ba96f25cae09820c22d689b84866847573892"
     },
     {
       "path": "applications/index.html",
-      "bytes": 3480,
-      "sha256": "90299bf6230b6fc7b873b502330fe6e7956063eaeb0e206f782adf77efde8144"
+      "bytes": 3484,
+      "sha256": "c84e1bdee2b2cfd935d5547660164dbfc150eb1e5d696e0d441672996e4cc19f"
     },
     {
       "path": "assets/ApplicationsPage-DL5Z-VKM.js",
@@ -73,8 +73,8 @@
     },
     {
       "path": "assets/index-ChCN_D-k.js",
-      "bytes": 409603,
-      "sha256": "d69b258793f6872f99b1b96d5244e45ba1e8f9f8bef557f53cb61fb2391a6433"
+      "bytes": 409525,
+      "sha256": "964014fda7f59be739a39a2a221efbdb6f2b3d9db54f0b6232364a73b9841ebc"
     },
     {
       "path": "assets/index-pBBgKW9T.css",
@@ -118,8 +118,8 @@
     },
     {
       "path": "downloads/index.html",
-      "bytes": 3622,
-      "sha256": "0b0d006bea2df488b2dc7bbe7bd223675e5ab416c621f5406d9cbb22b5c0e1fe"
+      "bytes": 3626,
+      "sha256": "35dade91341f99fa673bebe533459e7e70570d87c92e3eaf30834e2dabbd2d0b"
     },
     {
       "path": "film/index.html",
@@ -828,8 +828,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3606,
-      "sha256": "ae805784fca392c1770a86710d6db2d7c281de55a018b442c40a182b48b2df55"
+      "bytes": 3610,
+      "sha256": "26da7fc9152ccb4d37477936ffb4f0f32262c36e53a562a91e5aa6ad34cc7e77"
     },
     {
       "path": "llms.txt",
@@ -838,8 +838,8 @@
     },
     {
       "path": "methods/index.html",
-      "bytes": 3646,
-      "sha256": "557c44cd815bff13482193996a82b38359c890d62684ce1ded81855a590944b1"
+      "bytes": 3650,
+      "sha256": "d45908410969d7fefdfc0a88103fe2a5622f476b124cc091e3c03336b75f051b"
     },
     {
       "path": "models/README.md",
@@ -848,13 +848,13 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 3446,
-      "sha256": "60c52d22b1362dbc0e811ad9b0f80c261c68935b700ab9a24718491ede563a3f"
+      "bytes": 3450,
+      "sha256": "bd9b9bc192b9d7405acfa30dfcf8717d9fc07fe08d497d72e297adc54fa56329"
     },
     {
       "path": "publications/index.html",
-      "bytes": 3408,
-      "sha256": "9158a4612531f02de131c2113a9cc722a8707b3aafe2aee683d8213f5a648e69"
+      "bytes": 3412,
+      "sha256": "63de2102c3f8681a8cbd08f3e259d2fac596a48cb37bc9f6afafe9da8bd6f059"
     },
     {
       "path": "robots.txt",
@@ -878,8 +878,8 @@
     },
     {
       "path": "team/index.html",
-      "bytes": 3572,
-      "sha256": "c2fa2086cdca662d32534df1e8273dc2e9437e8d991b3290511f884bab404d29"
+      "bytes": 3576,
+      "sha256": "0081a68d13e1dede37b029e21c0fe3be07f51171bc53f07963243636c6cebf13"
     },
     {
       "path": "team/land-110m.geojson",
@@ -1113,5 +1113,67 @@
         "sha256": "592f977acfd5359f16487c6903babff90225414075a38ae6b546dc154c118294"
       }
     }
+  },
+  "caseFigureRefresh": {
+    "case": "Case 06 · Global HALE",
+    "source": "English six-case user materials",
+    "cacheVersion": "20261108-v2-figures",
+    "files": [
+      {
+        "path": "images/desktop/v2-case-06/Case6_HALE_global_fig05_STVPI_faceted.png",
+        "bytes": 211151,
+        "sha256": "ff49b0763b6b42146f4d35e0122738f2a2e75c816cc3810d2d767b106905d401"
+      },
+      {
+        "path": "images/desktop/v2-case-06/Case6_HALE_global_fig07_prediction_accuracy.png",
+        "bytes": 132621,
+        "sha256": "6c5ceb0b286babeb2622b47feb421fa0983202f0e2d304778fdf832a3c22c055"
+      },
+      {
+        "path": "assets/index-ChCN_D-k.js",
+        "bytes": 409525,
+        "sha256": "964014fda7f59be739a39a2a221efbdb6f2b3d9db54f0b6232364a73b9841ebc"
+      },
+      {
+        "path": "404.html",
+        "bytes": 3204,
+        "sha256": "f8617b3133aa4a9f2690331fc38ba96f25cae09820c22d689b84866847573892"
+      },
+      {
+        "path": "applications/index.html",
+        "bytes": 3484,
+        "sha256": "c84e1bdee2b2cfd935d5547660164dbfc150eb1e5d696e0d441672996e4cc19f"
+      },
+      {
+        "path": "downloads/index.html",
+        "bytes": 3626,
+        "sha256": "35dade91341f99fa673bebe533459e7e70570d87c92e3eaf30834e2dabbd2d0b"
+      },
+      {
+        "path": "index.html",
+        "bytes": 3610,
+        "sha256": "26da7fc9152ccb4d37477936ffb4f0f32262c36e53a562a91e5aa6ad34cc7e77"
+      },
+      {
+        "path": "methods/index.html",
+        "bytes": 3650,
+        "sha256": "d45908410969d7fefdfc0a88103fe2a5622f476b124cc091e3c03336b75f051b"
+      },
+      {
+        "path": "products/index.html",
+        "bytes": 3450,
+        "sha256": "bd9b9bc192b9d7405acfa30dfcf8717d9fc07fe08d497d72e297adc54fa56329"
+      },
+      {
+        "path": "publications/index.html",
+        "bytes": 3412,
+        "sha256": "63de2102c3f8681a8cbd08f3e259d2fac596a48cb37bc9f6afafe9da8bd6f059"
+      },
+      {
+        "path": "team/index.html",
+        "bytes": 3576,
+        "sha256": "0081a68d13e1dede37b029e21c0fe3be07f51171bc53f07963243636c6cebf13"
+      }
+    ]
   }
 }
