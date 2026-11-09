@@ -48,33 +48,33 @@
     },
     {
       "path": "404.html",
-      "bytes": 2984,
-      "sha256": "5264098a63a34bc6f1c32cd2a2e6adb66272bb50e00c635971850b9c80e999e4"
+      "bytes": 3200,
+      "sha256": "164eed53bf7bb3290342c00e837e707de8d555464421d1c9e4638625fabd199a"
     },
     {
       "path": "applications/index.html",
-      "bytes": 3264,
-      "sha256": "e415aebcb7045e367eb4664242702f64db5b5514c3c7141c77cd8ad944a289e6"
+      "bytes": 3480,
+      "sha256": "90299bf6230b6fc7b873b502330fe6e7956063eaeb0e206f782adf77efde8144"
     },
     {
       "path": "assets/ApplicationsPage-DL5Z-VKM.js",
-      "bytes": 15165,
-      "sha256": "a829189262055d40fc973e837683d274689c54895c471bf375f325325aa90839"
+      "bytes": 15163,
+      "sha256": "92c3f6d646ee95aa381df5ac31b54f410843814285c56547b8afdcb8c2a7d7db"
     },
     {
       "path": "assets/BSTVCSceneGLB-CurM4rMl.js",
-      "bytes": 1043358,
-      "sha256": "4d34d6da650ce5cfc5e9e67f1f9fab48e5e78d8e56e201dee70087001ced2cac"
+      "bytes": 1043356,
+      "sha256": "0a0ebe878539949c162945a8ee56fee6bb1ce56cd67ce7480d08d41ea999c94c"
     },
     {
       "path": "assets/DownloadsPage-C-QbiPwa.js",
-      "bytes": 20453,
-      "sha256": "5e53269f92e86908c1be348c72f2090dec962a27200de3f9572ac486f30bb83c"
+      "bytes": 20599,
+      "sha256": "e55d3e8532395b3d6e9f5558b1f7f6dcfed3f641c32dbb0bd2c38f7ca7056adb"
     },
     {
       "path": "assets/index-ChCN_D-k.js",
-      "bytes": 409781,
-      "sha256": "67959100b7fa5713343d114f338f45e0468a32c20aa237acfe519bd01b499a3b"
+      "bytes": 409603,
+      "sha256": "d69b258793f6872f99b1b96d5244e45ba1e8f9f8bef557f53cb61fb2391a6433"
     },
     {
       "path": "assets/index-pBBgKW9T.css",
@@ -113,13 +113,13 @@
     },
     {
       "path": "assets/TeamPage-kOUhm6P_.js",
-      "bytes": 32292,
-      "sha256": "617da7b64a81355b833283ec2a40d5eb68ea59d878d2e562271d740c5486d96d"
+      "bytes": 32290,
+      "sha256": "4f4970bb56d62c920c525b5696ed72af0d5329bbe47760a7504469b0a094b9cf"
     },
     {
       "path": "downloads/index.html",
-      "bytes": 3406,
-      "sha256": "6bbabd2d6494cb7103265f3b56ee720291a78ebb4089dc28b4a50774788fdf9d"
+      "bytes": 3622,
+      "sha256": "0b0d006bea2df488b2dc7bbe7bd223675e5ab416c621f5406d9cbb22b5c0e1fe"
     },
     {
       "path": "film/index.html",
@@ -443,8 +443,8 @@
     },
     {
       "path": "images/applications/source-55.webp",
-      "bytes": 250158,
-      "sha256": "ecfcb5d4f56fee59f65e5e5036b0f3741f1d37c44731c7f3224f3f7c53d2027c"
+      "bytes": 232072,
+      "sha256": "592f977acfd5359f16487c6903babff90225414075a38ae6b546dc154c118294"
     },
     {
       "path": "images/applications/source-56.webp",
@@ -828,18 +828,18 @@
     },
     {
       "path": "index.html",
-      "bytes": 3390,
-      "sha256": "80e77c580b05c2668aa64a0adcbb76384d6cd153c66ae33da6a49b27d9592c28"
+      "bytes": 3606,
+      "sha256": "ae805784fca392c1770a86710d6db2d7c281de55a018b442c40a182b48b2df55"
     },
     {
       "path": "llms.txt",
-      "bytes": 1513,
-      "sha256": "6bb3a38f6431a6d315cfeff50e0941d41107b1d47d6b4bd6493881d5b6918eb4"
+      "bytes": 1924,
+      "sha256": "8679fac750db3c743cfa498faae2e40f7007766a9ddecfba8fcf0d2ac87ab97c"
     },
     {
       "path": "methods/index.html",
-      "bytes": 3430,
-      "sha256": "7f7dcbef258534bf08d85dbf1fe203ec929446fc4e426e1a23df9dfca566ba0e"
+      "bytes": 3646,
+      "sha256": "557c44cd815bff13482193996a82b38359c890d62684ce1ded81855a590944b1"
     },
     {
       "path": "models/README.md",
@@ -848,13 +848,13 @@
     },
     {
       "path": "products/index.html",
-      "bytes": 3230,
-      "sha256": "967acffa874efd3a64d64fb0b0a4b629cee20f9190589fe4a3cfe340053d69b8"
+      "bytes": 3446,
+      "sha256": "60c52d22b1362dbc0e811ad9b0f80c261c68935b700ab9a24718491ede563a3f"
     },
     {
       "path": "publications/index.html",
-      "bytes": 3192,
-      "sha256": "56b521389f19eebbe325149158389cff54988894e8eeb9c79a075558570f76d9"
+      "bytes": 3408,
+      "sha256": "9158a4612531f02de131c2113a9cc722a8707b3aafe2aee683d8213f5a648e69"
     },
     {
       "path": "robots.txt",
@@ -878,8 +878,8 @@
     },
     {
       "path": "team/index.html",
-      "bytes": 3356,
-      "sha256": "747980fb21c2656694327cd5b625260e22e9f11555ec2dade9ae0dcd3c1aed76"
+      "bytes": 3572,
+      "sha256": "c2fa2086cdca662d32534df1e8273dc2e9437e8d991b3290511f884bab404d29"
     },
     {
       "path": "team/land-110m.geojson",
@@ -1004,6 +1004,114 @@
     "approvedScope": "Three public case headline summaries; companion-product notice placement; Monitor badge correction",
     "previousPublicationCommit": "d36d9cb3fdbf0e7f55255d4af95f6b7f6532e3cd",
     "cacheVersion": "20261104-v2-results",
-    "scientificScope": "Reported case-level 95% regression-coefficient credible-interval width summaries vs V1; no universal accuracy or calibration claim; no new model fitting."
+    "scientificScope": "Three public case comparisons of reported credible-interval widths."
+  },
+  "guideRelease": {
+    "tag": "https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/guides-cases-v2-2026.11.08",
+    "english": "https://bayesianstvc.github.io/BSTVC-Desktop/guide/",
+    "chinese": "https://bayesianstvc.github.io/BSTVC-Desktop/zh/assets/bstvc-user-guide.html",
+    "source": "Audited six-case public materials",
+    "files": {
+      "404.html": {
+        "bytes": 3200,
+        "sha256": "164eed53bf7bb3290342c00e837e707de8d555464421d1c9e4638625fabd199a"
+      },
+      "README.md": {
+        "bytes": 7314,
+        "sha256": "625d256d7e6410b6005a511d683e635baff092f2548ba47d3827416bea652d2d"
+      },
+      "applications/index.html": {
+        "bytes": 3480,
+        "sha256": "90299bf6230b6fc7b873b502330fe6e7956063eaeb0e206f782adf77efde8144"
+      },
+      "assets/ApplicationsPage-DL5Z-VKM.js": {
+        "bytes": 15163,
+        "sha256": "92c3f6d646ee95aa381df5ac31b54f410843814285c56547b8afdcb8c2a7d7db"
+      },
+      "assets/BSTVCSceneGLB-CurM4rMl.js": {
+        "bytes": 1043356,
+        "sha256": "0a0ebe878539949c162945a8ee56fee6bb1ce56cd67ce7480d08d41ea999c94c"
+      },
+      "assets/DownloadsPage-Bck3WgAe.js": {
+        "bytes": 19459,
+        "sha256": "7c1239f48124bc572c9870f0451072d9e98d35812696e1d9f7db298fa45eaa26"
+      },
+      "assets/DownloadsPage-C-QbiPwa.js": {
+        "bytes": 20599,
+        "sha256": "e55d3e8532395b3d6e9f5558b1f7f6dcfed3f641c32dbb0bd2c38f7ca7056adb"
+      },
+      "assets/DownloadsPage-Drd1egjt.js": {
+        "bytes": 19459,
+        "sha256": "94e70068d28f22926cc3831c89e22e76c2504285b4b1bf892c142d117998b5c4"
+      },
+      "assets/TeamPage-kOUhm6P_.js": {
+        "bytes": 32290,
+        "sha256": "4f4970bb56d62c920c525b5696ed72af0d5329bbe47760a7504469b0a094b9cf"
+      },
+      "assets/index-1DeulC1K.js": {
+        "bytes": 405925,
+        "sha256": "faba25e4a62461223385b3a8c00f5f2640a45d96ea9ce23a96d4ac55a38572e3"
+      },
+      "assets/index-BoqX97-O.js": {
+        "bytes": 424107,
+        "sha256": "2824a89ac4dabe997ce41342425a4473bf0b8507e0e61494e312d1908c455ee1"
+      },
+      "assets/index-ChCN_D-k.js": {
+        "bytes": 409603,
+        "sha256": "d69b258793f6872f99b1b96d5244e45ba1e8f9f8bef557f53cb61fb2391a6433"
+      },
+      "assets/index-DG5nO3D7.js": {
+        "bytes": 404027,
+        "sha256": "46ad75c778e3f22be32d3fe5f0df59a66553da3c6a8fa7ab9d8ab407e1b25779"
+      },
+      "assets/index-DKHSsTln.js": {
+        "bytes": 406174,
+        "sha256": "a584213c8680d59fea59832b81ebc0be73bc2b3f8d795d756d26651fb40a9407"
+      },
+      "assets/index-DPLI1W4_.js": {
+        "bytes": 360702,
+        "sha256": "56e2158823b40c8e2092adc4c590d7a6b69b53176406bb2db3eaaec5d6d535d0"
+      },
+      "assets/index-JPYExyIt.js": {
+        "bytes": 424116,
+        "sha256": "5b349fbaedb77dc410c51b198ed36c76c2599d3f149ed873c8750f1a60e1a134"
+      },
+      "assets/index-rtIko9al.js": {
+        "bytes": 424116,
+        "sha256": "1dafe7e1d5505352a1197d4e9d5e107d41c92b1a8e864b21ea81a4f81151de2b"
+      },
+      "downloads/index.html": {
+        "bytes": 3622,
+        "sha256": "0b0d006bea2df488b2dc7bbe7bd223675e5ab416c621f5406d9cbb22b5c0e1fe"
+      },
+      "index.html": {
+        "bytes": 3606,
+        "sha256": "ae805784fca392c1770a86710d6db2d7c281de55a018b442c40a182b48b2df55"
+      },
+      "llms.txt": {
+        "bytes": 1924,
+        "sha256": "8679fac750db3c743cfa498faae2e40f7007766a9ddecfba8fcf0d2ac87ab97c"
+      },
+      "methods/index.html": {
+        "bytes": 3646,
+        "sha256": "557c44cd815bff13482193996a82b38359c890d62684ce1ded81855a590944b1"
+      },
+      "products/index.html": {
+        "bytes": 3446,
+        "sha256": "60c52d22b1362dbc0e811ad9b0f80c261c68935b700ab9a24718491ede563a3f"
+      },
+      "publications/index.html": {
+        "bytes": 3408,
+        "sha256": "9158a4612531f02de131c2113a9cc722a8707b3aafe2aee683d8213f5a648e69"
+      },
+      "team/index.html": {
+        "bytes": 3572,
+        "sha256": "c2fa2086cdca662d32534df1e8273dc2e9437e8d991b3290511f884bab404d29"
+      },
+      "images/applications/source-55.webp": {
+        "bytes": 232072,
+        "sha256": "592f977acfd5359f16487c6903babff90225414075a38ae6b546dc154c118294"
+      }
+    }
   }
 }

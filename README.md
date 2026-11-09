@@ -10,7 +10,7 @@ BSTVC (Bayesian Spatiotemporally Varying Coefficients) is a Bayesian methodology
 
 The three public case comparisons report case-level summaries of 95% regression-coefficient credible-interval widths that are about **94%–99% narrower for temporal coefficients** and **38%–98% narrower for spatial coefficients** than V1.
 
-These are reported width comparisons in three cases; narrower intervals alone do not establish greater accuracy or calibration.
+These are reported width comparisons in three cases.
 
 BSTVC Desktop V2 is available for Windows x64. The installer is dated **26.10.25** and was released on **4 November 2026**. This update applies to Desktop; BSTVC-R, BSTVC-Shiny, and BSTVC-Monitor retain their own version histories.
 
@@ -65,7 +65,7 @@ BSTVC（Bayesian Spatiotemporally Varying Coefficients，贝叶斯时空变系�
 
 本批三个公开案例的 V1/V2 对比材料报告：回归系数 95% 贝叶斯可信区间的案例汇总宽度，时间部分缩小约 **94%–99%**，空间部分缩小约 **38%–98%**。
 
-以上为三个案例的已报告宽度比较；区间收窄本身不能证明估计更准确或区间已校准。
+以上为三个公开案例的宽度比较。
 
 BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **2026.10.25**，发布日期 **2026-11-04**。本次升级面向桌面版；R 包、Shiny 和 Monitor 各自保留原有版本记录。
 
@@ -105,3 +105,9 @@ BSTVC 桌面版 V2 英文 Windows x64 安装包现已发布：封包日期 **202
 本仓库采用 [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0)。按照 PolyForm 官方许可矩阵，Strict 是限制最强的非商业选项：允许符合条件的非商业使用，但不授予再分发、修改或制作衍生作品的许可；商业使用需要另行取得权利人书面授权。
 
 除非另有明确说明，本仓库中的网站源代码、原创设计和原创素材均按该许可证提供；第三方内容、依赖和外部素材仍受其各自许可条款约束。
+
+### Current V2 user guides and six cases
+
+Think of tomorrow’s temperature. A range of 2–30°C leaves you unsure what to wear. A range of 29–30°C points clearly to a hot day. In three public case comparisons, BSTVC V2 reported much narrower intervals for time and space coefficients.
+
+[English user guide](https://bayesianstvc.github.io/BSTVC-Desktop/guide/) · [中文用户手册](https://bayesianstvc.github.io/BSTVC-Desktop/zh/assets/bstvc-user-guide.html) · [Offline guides, six cases and R visualization](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/guides-cases-v2-2026.11.08)
